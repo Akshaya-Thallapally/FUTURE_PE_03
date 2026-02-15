@@ -1,0 +1,13 @@
+Prompts/keyword_prompt.txt
+Generate 15 SEO keywords for a local café named Haven Café located in Hyderabad.
+
+Target audience:
+Students, freelancers, and working professionals.
+
+Focus on:
+- Local SEO keywords
+- Long-tail keywords
+- High search intent keywords
+
+Example:
+best cafe in Hyderabad for studying
